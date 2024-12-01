@@ -45,7 +45,7 @@ This project was comprised of:
   </tr>
   <tr>
       <td> Late-stage Project Leader / Lead of Filter and Amplification Designs / Signal Processing Programmer </td>
-      <td> Aaron See</td>
+      <td> <a href=https://www.linkedin.com/in/aaron-see-6a5a3231a/> Aaron See</td>
       <td> Lead of Exterior Shell and Gear Design / Signal-Jam Co-Programmer </td>
     <td> <a href=https://www.linkedin.com/in/sean-coulon-clark-3513712b7/> Sean Coulon-Clark</td>
    </tr>
