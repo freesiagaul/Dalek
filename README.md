@@ -28,7 +28,6 @@ Signal detection and control systems are essential to electronic systems design.
 <div align=left><h2>Credits</h2>
 
 This project was comprised of:
-Casey Thomas, Freesia Gaul, Sean Coulon-Clark, Aaron See, Matthew Shih, Jiusi Gao, Hanlin Li.
 
  <table>
   <tr>
@@ -59,8 +58,6 @@ Casey Thomas, Freesia Gaul, Sean Coulon-Clark, Aaron See, Matthew Shih, Jiusi Ga
   <tr>
       <td> Amplification Assistant </td>
     <td> Hanlin Li</td>
-
-
   </tr>
 
     
