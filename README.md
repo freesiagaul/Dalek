@@ -38,7 +38,7 @@ This project was comprised of:
    
   </tr>
   <tr>
-    <td> Leader / Signal Processing & Signal Jam Programmer / Schematics Designs / Filter and Amplification Co-Lead </td>
+    <td> Leader / Signal Processing & Signal Jam Programmer / Filter and Amplification Co-Lead </td>
     <td>  <a href=https://www.linkedin.com/in/freesia-g> Freesia Gaul </td>
     <td> Leader / Programmer / Motor and Audio Control Systems  </td>
     <td> <a href=https://www.linkedin.com/in/casey-elisabeth-thomas-8b460a308/> Casey Thomas </td>
