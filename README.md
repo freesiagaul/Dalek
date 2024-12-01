@@ -3,10 +3,10 @@
 <p>
 
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-<a href="https://github.com/freesiagaul/monokai-pro-betterdiscord/commits/main/">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/freesiagaul/monokai-pro-betterdiscord">
+<a href="https://github.com/freesiagaul/Dalek/commits/main/">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/freesiagaul/Dalek">
 </a>
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/freesiagaul/monokai-pro-betterdiscord">
+<img alt="Repository size" src="https://img.shields.io/github/repo-size/freesiagaul/Dalek">
 </p>
 
 Casey Thomas, Freesia Gaul, Sean Coulon-Clark, Aaron See, Matthew Shih,
@@ -30,14 +30,41 @@ Signal detection and control systems are essential to electronic systems design.
 
 <div align=left><h2>Credits</h2>
 
-This theme was inspired by:
+This project was comprised of:
+Casey Thomas, Freesia Gaul, Sean Coulon-Clark, Aaron See, Matthew Shih, Jiusi Gao, Hanlin Li.
 
-<ul>
-  <li> <a href=https://github.com/schnensch0/zelk> Zelk by schnensch0 </li>
-  <li> <a href=https://github.com/refact0r/midnight-discord> Midnight by refact0r </li>
-  <li> <a href=https://monokai.pro/vscode> Monokai Pro</li>
-</ul>
+ <table>
+  <tr>
+    <th> Role </th>
+    <th>Signal Detection</th>
+    <th> Role </th>
+    <th>Control Systems</th>
+   
+  </tr>
+  <tr>
+    <td> Leader / Signal Processing Program / Schematics / Filter and Amplification Co-Lead </td>
+    <td>  <a href=https://www.linkedin.com/in/freesia-g> Freesia Gaul </td>
+    <td> Leader / Programmer / Motor and Audio Control Systems  </td>
+    <td> <a href=https://www.linkedin.com/in/casey-elisabeth-thomas-8b460a308/> Casey Thomas </td>
+  </tr>
+  <tr>
+      <td> Lead of Filter and Amplification Designs </td>
+      <td> Aaron See</td>
+      <td> Lead of Exterior Shell and Gear Design </td>
+    <td> <a href=https://www.linkedin.com/in/sean-coulon-clark-3513712b7/> Sean Coulon-Clark</td>
+   </tr>
+   <tr>
+    <td> Amplification </td>
+    <td> Matthew Shih </td>
+    <td> Head of Materials </td>
+    <td> Jiusi Gao</td>
+  </tr>
+  <tr>
+      <td> Amplification Assistant </td>
+    <td> Hanlin Li</td>
 
 
+  </tr>
 
-
+    
+</table> 
