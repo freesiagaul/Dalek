@@ -38,7 +38,7 @@ This project was comprised of:
    
   </tr>
   <tr>
-    <td> Leader / Signal Processing Programmer / Schematics Designs / Filter and Amplification Co-Lead </td>
+    <td> Leader / Signal Processing & Signal Jam Programmer / Schematics Designs / Filter and Amplification Co-Lead </td>
     <td>  <a href=https://www.linkedin.com/in/freesia-g> Freesia Gaul </td>
     <td> Leader / Programmer / Motor and Audio Control Systems  </td>
     <td> <a href=https://www.linkedin.com/in/casey-elisabeth-thomas-8b460a308/> Casey Thomas </td>
@@ -46,7 +46,7 @@ This project was comprised of:
   <tr>
       <td> Lead of Filter and Amplification Designs / Signal Processing Co-Programmer </td>
       <td> Aaron See</td>
-      <td> Lead of Exterior Shell and Gear Design </td>
+      <td> Lead of Exterior Shell and Gear Design / Audio Signal-Jam Programmer </td>
     <td> <a href=https://www.linkedin.com/in/sean-coulon-clark-3513712b7/> Sean Coulon-Clark</td>
    </tr>
    <tr>
