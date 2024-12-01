@@ -9,9 +9,6 @@
 <img alt="Repository size" src="https://img.shields.io/github/repo-size/freesiagaul/Dalek">
 </p>
 
-Casey Thomas, Freesia Gaul, Sean Coulon-Clark, Aaron See, Matthew Shih,
- Jiusi Gao, Hanlin Li.
-
 ![IMG_9355](https://github.com/user-attachments/assets/a65ce7af-7dfb-46b7-94c5-c7e7d1049bf3)
 
 
