@@ -41,31 +41,3 @@ This theme was inspired by:
 
 
 
-<div align=left><h2>Background</h2>
-
-This theme was designed to be minimal - such that my IDE and Discord looked the same. But found others wanted to use it, so it's public. :) <br>
-
-This theme could be improved a lot (e.g. JS tiling,) so feel free to play around!
-
-<div align=left><h2>Installation</h2>
-<ol>
- <li>Ensure you have BetterDiscord <a href=https://betterdiscord.app/>downloaded </li>
- <li>Download monokai_theme.css </li>
- <li>Add the file to your theme folder (should be in Discord settings) OR copy+paste into [custom css] in [settings]</li>
-  
-</ol>
-
-
-
-<div align=left><h2>Credits</h2>
-
-This theme was inspired by:
-
-<ul>
-  <li> <a href=https://github.com/schnensch0/zelk> Zelk by schnensch0 </li>
-  <li> <a href=https://github.com/refact0r/midnight-discord> Midnight by refact0r </li>
-  <li> <a href=https://monokai.pro/vscode> Monokai Pro</li>
-</ul>
-
-
-
