@@ -1,4 +1,4 @@
-<div align=center><h1>Designing a Dalek: A Study in Integrating Signal Detection and Control Systems
+<div align=center><h1>Designing a Dalek: Integrating Signal Detection and Control Systems
 </h1>
 <p>
 
